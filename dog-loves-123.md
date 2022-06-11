@@ -1,5 +1,5 @@
 # This is a header
 title: 'Django Crash Course'
+cover_image: '/images/img3.jpg'
 This is some text.
-* Here is a list
-cover_image: '/images/posts/img3.jpg'
+
